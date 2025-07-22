@@ -7,10 +7,8 @@ An AI-powered smart system that lets users select regions on screen using hand g
 
 ## 🎥 Demo
 
-<video width="100%" controls>
-  <source src="demo/talk-lens.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Talk-Lens Demo](demo.gif)
+📽️ [Watch Demo Video](https://github.com/Deep841/Talk-Lens/blob/main/talk-lens.mp4)
 
 ---
 
