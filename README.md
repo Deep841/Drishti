@@ -5,13 +5,6 @@ An AI-powered smart system that lets users select regions on screen using hand g
 
 ---
 
-## 🎥 Demo
-
-![Talk-Lens Demo](demo.gif)
-📽️ [Watch Demo Video](https://github.com/Deep841/Talk-Lens/blob/main/talk-lens.mp4)
-
----
-
 ## 🚀 Features
 
 - ✋ Hand gesture-based ROI selection using MediaPipe
