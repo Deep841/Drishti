@@ -1,7 +1,18 @@
 # Talk-Lens
-# 📚 Gesture-Controlled OCR with Text-to-Speech
+## 📚 Gesture-Controlled OCR with Text-to-Speech
 
 An AI-powered smart system that lets users select regions on screen using hand gestures, extract text from those regions using OCR, and listen to the extracted content via Text-to-Speech (TTS). It enables touch-free interaction with any textual content using just your fingers.
+
+---
+
+## 🎥 Demo
+
+<video width="100%" controls>
+  <source src="demo/talk-lens.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
 
 ## 🚀 Features
 
@@ -12,6 +23,8 @@ An AI-powered smart system that lets users select regions on screen using hand g
 - 🤏 Pinch gesture to mark rectangle points
 - ☝️ One finger = Play, ✌️ Two fingers = Pause, 🤟 Three fingers = Resume
 - 🔁 Reset or quit using keyboard keys
+
+---
 
 ## 🛠️ Technologies Used
 
